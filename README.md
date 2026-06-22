@@ -4,7 +4,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=38&duration=3000&pause=800&color=FFFFFF&center=true&vCenter=true&width=700&height=70&lines=Hey+there%2C+I'm+Yogesh+%F0%9F%91%8B" alt="name"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=38&duration=2500&pause=99999&color=FFFFFF&center=true&vCenter=true&repeat=false&width=700&height=70&lines=Hey+there%2C+I'm+Yogesh+%F0%9F%91%8B" alt="name"/>
 </div>
 
 <div align="center">
@@ -166,12 +166,16 @@ $ cat current_status.txt
 
 ---
 
-<!-- ═══════════════════════════ TROPHIES ═══════════════════════════ -->
+<!-- ═══════════════════════════ CONTRIBUTION SNAKE ═══════════════════════════ -->
 
-## 🏅 Trophies
+## 🐍 Contribution Snake
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=thelifeisstrange&theme=darkhub&no-frame=true&column=7&margin-w=8" alt="trophies"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/thelifeisstrange/thelifeisstrange/output/github-contribution-grid-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/thelifeisstrange/thelifeisstrange/output/github-contribution-grid-snake.svg"/>
+    <img alt="contribution snake animation" src="https://raw.githubusercontent.com/thelifeisstrange/thelifeisstrange/output/github-contribution-grid-snake-dark.svg"/>
+  </picture>
 </div>
 
 ---
