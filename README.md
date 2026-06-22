@@ -16,19 +16,19 @@
 <!-- ═══════════════════════════ SOCIAL LINKS ═══════════════════════════ -->
 <div align="center">
   <a href="mailto:yogeshpk0123@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Gmail-yogeshpk0123-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=b5200d"/>
   </a>&nbsp;
   <a href="https://www.linkedin.com/in/yogeshkulkarni21/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=004182"/>
   </a>&nbsp;
   <a href="https://www.instagram.com/yogesh__kulkarni_/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=b3003b"/>
   </a>&nbsp;
   <a href="https://yogesh-kulkarni.web.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-3FB950?style=for-the-badge&logo=firefoxbrowser&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Portfolio-Visit-3FB950?style=for-the-badge&logo=firefoxbrowser&logoColor=white&labelColor=238636"/>
   </a>&nbsp;
   <a href="https://drive.google.com/file/d/15h9QAOAIGBIGjd8oMG8vdw9TwZDo2E-d/view?usp=sharing" target="_blank">
-    <img src="https://img.shields.io/badge/Resume-FF6B6B?style=for-the-badge&logo=googledrive&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Resume-Download-FF6B6B?style=for-the-badge&logo=googledrive&logoColor=white&labelColor=cc3333"/>
   </a>
 </div>
 
@@ -79,44 +79,41 @@ $ cat current_status.txt
 
 ## 🛠️ Tech Stack
 
-**Frontend & Mobile**
+**🎨 Frontend & Mobile**
 
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![Shopify](https://img.shields.io/badge/Shopify-96BF48?style=flat-square&logo=shopify&logoColor=white)
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,js,html,css,flutter,tailwind&perline=7" />
+  <br/>
+  <img src="https://img.shields.io/badge/Shopify_Liquid-96BF48?style=for-the-badge&logo=shopify&logoColor=white&labelColor=5a7227"/>
+</div>
 
-**AI · ML · Data**
+<br/>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+**🤖 AI · ML · Data**
 
-**Backend & Databases**
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv&perline=7" />
+  <br/><br/>
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white&labelColor=b55c00"/>
+  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black&labelColor=c9a200"/>
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white&labelColor=3a1faa"/>
+</div>
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+<br/>
 
-**Cloud · DevOps · Tools**
+**⚙️ Backend & Databases**
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,django,flask,java,mongodb,postgresql,mysql,firebase&perline=8" />
+</div>
+
+<br/>
+
+**☁️ Cloud · DevOps · Tools**
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=aws,docker,git,github,figma,vscode&perline=6" />
+</div>
 
 ---
 
@@ -128,25 +125,27 @@ $ cat current_status.txt
   <tr>
     <td align="center">🌐 <strong>National</strong></td>
     <td>
-      🏆 Smart India Hackathon Finalist — <strong>2022, 2023, 2024</strong><br/>
-      🥇 Power BI Data Analytics Hackathon<br/>
-      🚀 Learn2Build Hackathon
+      🏆 Smart India Hackathon Winner — <strong>2024</strong><br/>
+      🏆 Smart India Hackathon Finalist — <strong>2023</strong><br/>
+      🏆 Synergy Summit 2K25
     </td>
   </tr>
   <tr>
     <td align="center">🌍 <strong>International</strong></td>
     <td>
+      🚀 Learn2Build Hackathon
       💡 PACS Innovation Challenge<br/>
       🌙 Moon Hacks<br/>
-      🎓 EYF Python &amp; Business Idea Competition
     </td>
   </tr>
   <tr>
     <td align="center">🏫 <strong>Zonal / College</strong></td>
     <td>
+      🎓 EYF Python &amp; Business Idea Competition
       💼 MADBout 2024 &amp; 2025 — WITChar<br/>
       💡 Innovative Business Idea — WITChar<br/>
-      🎖️ Ag Patil 2025 · DiSTA 2025 · RIT 2025 · Synergy Summit
+      🥇 Power BI Data Analytics Hackathon<br/>
+      🎖️ Ag Patil 2025 · DiSTA 2025 · RIT 2025 
     </td>
   </tr>
 </table>
