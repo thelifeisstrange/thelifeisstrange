@@ -75,6 +75,28 @@ $ cat current_status.txt
 
 ---
 
+<!-- ═══════════════════════════ FREELANCE PROJECTS ═══════════════════════════ -->
+
+## 🚀 Freelance Projects
+
+Selected client projects designed, developed, and deployed end to end.
+
+| Project | Focus | Stack | Live |
+|---------|-------|-------|------|
+| **Dr. Ashish Desai** | Orthopaedic surgeon platform with services, clinic schedules, and enquiry flows | Web Development · UI/UX · SEO | [Visit site](https://drashishdesai.com) |
+| **Faithnheall** | Patient care management platform for patients, staff, sessions, referrals, and finances | Full Stack · Admin Portal · Mobile | Private platform |
+| **Happy Paws Pet Clinic** | Mobile-first veterinary clinic website that makes services, contact details, and reviews easy to find | Web Development · UI/UX | [Visit site](https://www.happypawspetclinic.com/) |
+| **FnH's Foot Clinic Pune** | Modern physiotherapy and podiatry site with responsive UI and custom motion design | Web Design · Healthcare · Animations | [Visit site](https://fnhsfootclinicpune.com/) |
+| **Faith n Heall** | Home healthcare website with services, appointment booking, trust content, and local SEO | Web Development · Firebase · SEO | [Visit site](https://faithnheall.com) |
+
+<div align="center">
+  <a href="https://yogesh-kulkarni.web.app/#client-work">
+    <img src="https://img.shields.io/badge/View_All_Client_Work-3FB950?style=for-the-badge&logo=firefoxbrowser&logoColor=white&labelColor=238636" alt="View client work"/>
+  </a>
+</div>
+
+---
+
 <!-- ═══════════════════════════ TECH STACK ═══════════════════════════ -->
 
 ## 🛠️ Tech Stack
@@ -125,27 +147,25 @@ $ cat current_status.txt
   <tr>
     <td align="center">🌐 <strong>National</strong></td>
     <td>
-      🏆 Smart India Hackathon Winner — <strong>2024</strong><br/>
-      🏆 Smart India Hackathon Finalist — <strong>2023</strong><br/>
-      🏆 Synergy Summit 2K25
+      🏆 Smart India Hackathon Finalist — <strong>2022, 2023, 2024</strong><br/>
+      🥇 Power BI Data Analytics Hackathon<br/>
+      🚀 Learn2Build Hackathon
     </td>
   </tr>
   <tr>
     <td align="center">🌍 <strong>International</strong></td>
     <td>
-      🚀 Learn2Build Hackathon
       💡 PACS Innovation Challenge<br/>
       🌙 Moon Hacks<br/>
+      🎓 EYF Python &amp; Business Idea Competition
     </td>
   </tr>
   <tr>
     <td align="center">🏫 <strong>Zonal / College</strong></td>
     <td>
-      🎓 EYF Python &amp; Business Idea Competition
       💼 MADBout 2024 &amp; 2025 — WITChar<br/>
       💡 Innovative Business Idea — WITChar<br/>
-      🥇 Power BI Data Analytics Hackathon<br/>
-      🎖️ Ag Patil 2025 · DiSTA 2025 · RIT 2025 
+      🎖️ Ag Patil 2025 · DiSTA 2025 · RIT 2025 · Synergy Summit
     </td>
   </tr>
 </table>
