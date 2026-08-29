@@ -67,7 +67,7 @@ $ cat current_status.txt
 
 | | Role | Company | Period |
 |--|------|---------|--------|
-| 🛡️ | Software Development Intern | **DRDO** | Jul 2025 – Present |
+| 🛡️ | Software Development Intern | **DRDO** | Jul 2025 – May 2026 |
 | 🛒 | Website Developer Intern | **The House of NutriCastle** | Feb – Apr 2025 |
 | 👨‍💻 | Technical Head | **Learning Out Loud Coding Club** | Jul 2024 – Jun 2025 |
 | ⚛️ | Associate Software Engineer Intern | **Eywa** | Jan – Jun 2024 |
@@ -147,7 +147,8 @@ Selected client projects designed, developed, and deployed end to end.
   <tr>
     <td align="center">🌐 <strong>National</strong></td>
     <td>
-      🏆 Smart India Hackathon Finalist — <strong>2022, 2023, 2024</strong><br/>
+      🏆 Smart India Hackathon Winner — <strong>2024</strong><br/>
+      🏆 Smart India Hackathon Finalist — <strong>2023</strong><br/>
       🥇 Power BI Data Analytics Hackathon<br/>
       🚀 Learn2Build Hackathon
     </td>
