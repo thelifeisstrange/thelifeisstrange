@@ -83,11 +83,11 @@ Selected client projects designed, developed, and deployed end to end.
 
 | Project | Focus | Stack | Live |
 |---------|-------|-------|------|
-| **Dr. Ashish Desai** | Orthopaedic surgeon platform with services, clinic schedules, and enquiry flows | Web Development · UI/UX · SEO | [Visit site](https://drashishdesai.com) |
+| **Dr. Ashish Desai** | Orthopaedic surgeon platform with services, clinic schedules, and enquiry flows | Web Development · UI/UX · SEO | [Visit site](https://drashishdesaiortho.com) |
 | **Faithnheall** | Patient care management platform for patients, staff, sessions, referrals, and finances | Full Stack · Admin Portal · Mobile | Private platform |
 | **Happy Paws Pet Clinic** | Mobile-first veterinary clinic website that makes services, contact details, and reviews easy to find | Web Development · UI/UX | [Visit site](https://www.happypawspetclinic.com/) |
 | **FnH's Foot Clinic Pune** | Modern physiotherapy and podiatry site with responsive UI and custom motion design | Web Design · Healthcare · Animations | [Visit site](https://fnhsfootclinicpune.com/) |
-| **Faith n Heall** | Home healthcare website with services, appointment booking, trust content, and local SEO | Web Development · Firebase · SEO | [Visit site](https://faithnheall.com) |
+| **Faith n Heall** | Home healthcare website with services, appointment booking, trust content, and local SEO | Web Development · Firebase · SEO | [Visit site](https://faithnheal.com) |
 
 <div align="center">
   <a href="https://yogesh-kulkarni.web.app/#client-work">
