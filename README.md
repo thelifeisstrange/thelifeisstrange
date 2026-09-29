@@ -83,6 +83,8 @@ Selected client projects designed, developed, and deployed end to end.
 
 | Project | Focus | Stack | Live |
 |---------|-------|-------|------|
+| **Investa Associates** | Financial advisory & loan consultancy platform with dynamic rate portal, lending catalogs, and SEO | Web Development · UI/UX · Finance | [Visit site](https://www.investaassociates.com/) |
+| **Arogyam Pathology Lab** | Diagnostic center website with 13-category test catalog, health packages, and home collection booking | Web Development · UI/UX · Healthcare | [Visit site](https://arogyampathlab.com/) |
 | **Dr. Ashish Desai** | Orthopaedic surgeon platform with services, clinic schedules, and enquiry flows | Web Development · UI/UX · SEO | [Visit site](https://drashishdesaiortho.com) |
 | **Faithnheall** | Patient care management platform for patients, staff, sessions, referrals, and finances | Full Stack · Admin Portal · Mobile | Private platform |
 | **Happy Paws Pet Clinic** | Mobile-first veterinary clinic website that makes services, contact details, and reviews easy to find | Web Development · UI/UX | [Visit site](https://www.happypawspetclinic.com/) |
