@@ -54,7 +54,7 @@ $ whoami
 $ cat current_status.txt
   🔭  Currently  →  Software Development Intern @ DRDO
   🌱  Building   →  ML pipelines · MERN apps · Flutter projects
-  🏆  Achieved   →  Smart India Hackathon finalist (2022, 2023, 2024)
+  🏆  Achieved   →  Smart India Hackathon Winner 2024 & Finalist 2023
   💡  Loves      →  Clean code · Git workflows · Open Source
   📫  Reach me   →  yogeshpk0123@gmail.com
 ```
