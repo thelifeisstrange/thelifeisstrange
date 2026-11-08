@@ -52,7 +52,7 @@ $ whoami
   based in India 🇮🇳
 
 $ cat current_status.txt
-  🔭  Currently  →  Software Development Intern @ DRDO
+  🔭  Currently  →  M.Tech Student @ Manipal Institute of Technology, Bangaluru
   🌱  Building   →  ML pipelines · MERN apps · Flutter projects
   🏆  Achieved   →  Smart India Hackathon Winner 2024 & Finalist 2023
   💡  Loves      →  Clean code · Git workflows · Open Source
